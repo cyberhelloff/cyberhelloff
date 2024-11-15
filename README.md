@@ -1,4 +1,4 @@
-# 💫 About Me:
+# -💫 About Me:
 - 👋 Hi, I’m Jaiveer <br>- 👀 I’m interested in cyber security<br>- 🌱 I’m currently learning Bug hunting<br>- 💞️ I’m looking to collaborate on cyber security stuff
 
 
